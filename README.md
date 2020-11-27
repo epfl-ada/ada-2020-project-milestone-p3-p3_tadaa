@@ -1,6 +1,7 @@
 **1. Title :** Empowering Effects : Thunberg’s movement on Climate Change
 
 **2. Abstract :**
+
 In the replicated publication on “Chilling effects”, the goal was to look at the change in behaviour of the public as a potential reaction to the revelations of surveillance of June 2013. This effect is definitely detrimental to society since the public imposes on themselves restrictions by fear of retribution. In this extension, it is questioned whether the mediatic appearances of climate activist Greta Thunberg induced a positive change in behaviour in the public. Using data from Twitter, it will be possible to see to what extent the topic is discussed and shared (for movement followers as well as for people against it). Then using the number of wikipedia pageviews per day on specific climate change related articles, it will be possible to assess if the movement stays only on social media or if the public actually tries to get informed on the topic by reading on wikipedia. That behaviour would arguably increase the freedom of individuals due to their expanded knowledge.
 
 
@@ -12,6 +13,7 @@ In the replicated publication on “Chilling effects”, the goal was to look at
 3. What is the short and long term impact of Thunberg's media appearance on the propensity of the public to get climate change related information on Wikipedia ?
 
 **4. Proposed dataset :**
+
 First and foremost, the selected interest period depends on the choice of events that will be the pivots of the interrupted time series analysis. (ITS) These events are as follows: the school strike of August 20, 2018 led by Greta Thunberg and the 2018 United Nations Climate Change Conference (COP24) on December 14, 2018. The period of analysis is between January 2018 and February 2020. (we thought that COVID-19 period might influence the data a bit too much).
  
 Wikipedia: Take the daily pageviews number of 3 different corpus: climate change related, nature related and a control group (we can take the same  control group as in the publication that is: the most popular articles on Wikipedia). We take the dataset out of the english wikipedia. (https://pageviews.toolforge.org/pageviews/).
@@ -57,4 +59,5 @@ Wikipedia data will be downloaded 10 pages by 10 pages thanks to the previous ci
 
 
 **8. Questions for TAs (optional) :**
+
 The data found for the twitter analysis is very heavy and somewhat incomplete. By discussing with other groups for comparison, it seems to us that this part should be removed to make for a more suitable workload. That part of the analysis seems useful to us since it would allow us to compare how the topic trends on twitter to how the public actually takes action on it. Do you think it is feasible ? We are just worried about the technical aspect regarding connection speed, storage space and processing time. Processing the data is simple (Find a value in a JSON) but it is hard to assess how slow it can get considering the amount of data. The fear is to have a technical problem that blocks the rest of the analysis. We also worry about having too much work and not being able to do it all on time.
