@@ -67,5 +67,7 @@ The data found for the twitter analysis is very heavy and somewhat incomplete. B
 **9. Contributions :**
 
 *Danny :* wrote a large part of the code, participated in the interpretation of the results, helped with data gathering.
+
 *Léa :* Gathered the data, wrote the data story, participated in the interpretation of the results, participated in the recording of the video
+
 *Jonathan :* Helped with data gathering, helped with writing the code, participated in the interpretation of the results, participated in the recording of the video.
