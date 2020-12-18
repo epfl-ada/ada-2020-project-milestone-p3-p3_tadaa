@@ -61,3 +61,11 @@ Wikipedia data will be downloaded 10 pages by 10 pages thanks to the previous ci
 **8. Questions for TAs (optional) :**
 
 The data found for the twitter analysis is very heavy and somewhat incomplete. By discussing with other groups for comparison, it seems to us that this part should be removed to make for a more suitable workload. That part of the analysis seems useful to us since it would allow us to compare how the topic trends on twitter to how the public actually takes action on it. Do you think it is feasible ? We are just worried about the technical aspect regarding connection speed, storage space and processing time. Processing the data is simple (Find a value in a JSON) but it is hard to assess how slow it can get considering the amount of data. The fear is to have a technical problem that blocks the rest of the analysis. We also worry about having too much work and not being able to do it all on time.
+
+
+
+**9. Contributions :**
+
+*Danny :* wrote a large part of the code, participated in the interpretation of the results, helped with data gathering.
+*Léa :* Gathered the data, wrote the data story, participated in the interpretation of the results, participated in the recording of the video
+*Jonathan :* Helped with data gathering, helped with writing the code, participated in the interpretation of the results, participated in the recording of the video.
